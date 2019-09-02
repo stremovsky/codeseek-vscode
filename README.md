@@ -9,6 +9,7 @@ This plugin allows users to search in Codeseek.com for the selected text.
 # Building
 
 npm run vscode:prepublish
+
 vsce package
 
 # Installation
