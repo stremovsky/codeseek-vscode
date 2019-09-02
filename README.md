@@ -12,7 +12,7 @@ npm run vscode:prepublish
 
 vsce package
 
-# Installation
+# Publish to the VSCode marketplace
 
 vsce publish -p **token**
 
