@@ -13,8 +13,6 @@ vsce package
 
 # Installation
 
-code --install-extension ms-vscode.csharp
-
-https://stackoverflow.com/questions/34286515/how-to-install-visual-studio-code-extensions-from-command-line
+vsce publish -p <token>
 
 **Enjoy!**
