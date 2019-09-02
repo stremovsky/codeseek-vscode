@@ -13,6 +13,6 @@ vsce package
 
 # Installation
 
-vsce publish -p <token>
+vsce publish -p **token**
 
 **Enjoy!**
