@@ -10,7 +10,7 @@ This plugin allows users to search in Codeseek.com for the selected text.
 
 Just search for **codeseek** in the list of Extentions as bellow:
 
-![Plugin installation video](https://raw.githubusercontent.com/stremovsky/codeseek-vscode/plugin-video.gif)
+![Plugin installation video](https://raw.githubusercontent.com/stremovsky/codeseek-vscode/master/plugin-video.gif)
 
 # How to build & publish plugin
 
