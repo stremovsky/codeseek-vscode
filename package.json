@@ -2,7 +2,7 @@
 	"name": "codeseek",
 	"displayName": "Codeseek",
 	"description": "Search engine for developers",
-	"version": "0.0.12",
+	"version": "0.0.13",
 	"publisher": "codeseek",
 	"license": "MIT",
 	"engines": {
